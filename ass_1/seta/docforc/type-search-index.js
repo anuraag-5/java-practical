@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ass_1.seta","l":"c"},{"p":"ass_1.seta","l":"MyNumber"}];updateSearchResults();
